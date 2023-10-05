@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:09:32.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H-cFU1N3FX7CeMqBD0HU" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:57:59.903Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8TUOZXMnTSZ1Pzfzya2x" version="21.8.0" type="github" pages="2">
   <diagram name="Basic Symbol" id="kNBaUOQXtmwKGO3RzEcJ">
     <mxGraphModel dx="461" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,115 @@
         </mxCell>
         <mxCell id="Zk8PVEsu03vUAG9jZj83-30" value="Start / End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="32.5" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bhKYsjJe8Imt8gWPEU4g" name="Mcd Process">
+    <mxGraphModel dx="1225" dy="1166" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-4" target="-YrgNRe6qhnTEyBa8cRT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-4" value="A customer places&lt;br&gt;an order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="-122" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-5" target="-YrgNRe6qhnTEyBa8cRT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-5" target="-YrgNRe6qhnTEyBa8cRT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-5" value="The order appears on a screen in the sandwich prep area" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="-135" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-7" value="Crew member hands a freshly cooked hot sandwich to customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="160" width="143" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-8" target="-YrgNRe6qhnTEyBa8cRT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-8" value="A bun is placed in the rapid speed toaster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="-122" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="31" y="16" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="606" y="-16" />
+              <mxPoint x="31" y="-16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-9" value="Sandwich wrap is placed on the&lt;br&gt;kitchen counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="-122" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-10" target="-YrgNRe6qhnTEyBa8cRT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-10" value="waits until the bun comes out" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="23" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-12" target="-YrgNRe6qhnTEyBa8cRT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-12" value="Place the bun on the wrapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="23" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-13" target="-YrgNRe6qhnTEyBa8cRT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-13" value="Dress the bun with appropriate items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="21" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-14" target="-YrgNRe6qhnTEyBa8cRT-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="736" y="66" />
+              <mxPoint x="736" y="144" />
+              <mxPoint x="57" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-26" value="[No]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-YrgNRe6qhnTEyBa8cRT-25">
+          <mxGeometry x="0.6817" y="4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-14" target="-YrgNRe6qhnTEyBa8cRT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551" y="66" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="623" y="-7" />
+              <mxPoint x="547" y="-7" />
+              <mxPoint x="547" y="36" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-28" value="[yes]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-YrgNRe6qhnTEyBa8cRT-27">
+          <mxGeometry x="0.639" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-14" value="Is there any item&lt;br&gt;left to be dressed&amp;nbsp;&lt;br&gt;on the bun?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="551" y="3" width="145" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-15" target="-YrgNRe6qhnTEyBa8cRT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-15" value="picked the meat from the universal holding cabinet &amp;amp; added to the bun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="162" width="131" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YrgNRe6qhnTEyBa8cRT-16" target="-YrgNRe6qhnTEyBa8cRT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-16" value="The bun is wrapped and passed on the counter to a crew member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="166" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YrgNRe6qhnTEyBa8cRT-31" value="The order is saved in DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-255" width="82" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
