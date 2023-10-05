@@ -1,20 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T08:36:20.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="e2Rq8gfVzFXivs9VgAxc" version="21.8.0" type="github">
-  <diagram name="Page-1" id="kNBaUOQXtmwKGO3RzEcJ">
-    <mxGraphModel dx="701" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:09:32.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H-cFU1N3FX7CeMqBD0HU" version="21.8.0" type="github">
+  <diagram name="Basic Symbol" id="kNBaUOQXtmwKGO3RzEcJ">
+    <mxGraphModel dx="461" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zk8PVEsu03vUAG9jZj83-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Zk8PVEsu03vUAG9jZj83-2" value="Start / End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="20" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Zk8PVEsu03vUAG9jZj83-3" value="Process /&amp;nbsp;&lt;br&gt;Action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zk8PVEsu03vUAG9jZj83-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="20" width="80" height="50" as="geometry" />
+          <mxGeometry x="260" y="30" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zk8PVEsu03vUAG9jZj83-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Zk8PVEsu03vUAG9jZj83-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,6 +54,21 @@
         </mxCell>
         <mxCell id="Zk8PVEsu03vUAG9jZj83-22" value="Manual&lt;br&gt;Operation" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk8PVEsu03vUAG9jZj83-24" value="Preparation" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk8PVEsu03vUAG9jZj83-26" value="Stored&lt;br&gt;Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk8PVEsu03vUAG9jZj83-27" value="Delay" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="525" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk8PVEsu03vUAG9jZj83-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="20" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk8PVEsu03vUAG9jZj83-30" value="Start / End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="32.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
